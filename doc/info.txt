@@ -1,0 +1,20 @@
+https://github.com/KunalKapadia/express-mongoose-es6-rest-api
+
+http://blog.modulus.io/nodejs-and-express-static-content
+mongoose:
+https://scotch.io/tutorials/using-mongoosejs-in-node-js-and-mongodb-applications
+mongoose官方
+http://www.nodeclass.com/api/mongoose.html#model_Model.findById
+full stack
+http://sahatyalkabov.com/create-a-character-voting-app-using-react-nodejs-mongodb-and-socketio/
+http://www.kancloud.cn/kancloud/create-voting-app/63996
+react router server rendering
+https://github.com/reactjs/react-router/blob/f81c8e46883e7838e2790fba14c10a4822e5163a/docs/guides/advanced/ServerRendering.md#server-rendering
+demo
+https://github.com/sahat/newedenfaces-react
+redux full stack
+https://github.com/choonkending/react-webpack-node
+react express
+http://www.codeproject.com/Articles/1067725/Part-Building-web-app-using-react-js-express-js
+mongodb 操作
+http://www.cnblogs.com/wufengtinghai/p/3801697.html
